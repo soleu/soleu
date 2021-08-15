@@ -1,6 +1,6 @@
 <h1> 𝐒𝐨𝐥 𝐋𝐞𝐞💜 </h1>
 
-- 🌱 I’m currently learning Server🤪
+- 🌱 I’m currently learning Server🤪 
 - 📫 How to reach me ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlthf555@gmail.com)
 - Devlog : ![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soleu.github.io/)  https://soleu.github.io 
 
@@ -30,5 +30,6 @@
  [![Sol's github stats](https://github-readme-stats.vercel.app/api?username=soleu&theme=dracula)](https://github.com/soleu/github-readme-stats)
 
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F5497C&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23FFF7F7&title=hits&edge_flat=false"/></a>
 
 </p>
