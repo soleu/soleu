@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
 <h1> 𝐒𝐨𝐥 𝐋𝐞𝐞💜 </h1>
 
 - 🌱 I’m currently learning Server🤪 
