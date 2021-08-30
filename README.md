@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=💜Sol Sol💜&animation=twinkling&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=💜Sol Sol💜&animation=blinking&fontSize=80" />
 
 
 <h1> 𝐒𝐨𝐥 𝐋𝐞𝐞💜 </h1>
