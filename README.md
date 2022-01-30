@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=💜Sol Sol💜&animation=twinkling&fontSize=80" />
 
 
-<h1> 𝐒𝐨𝐥 𝐋𝐞𝐞💜 </h1>
+<h1> 𝐒𝐨𝐥 𝐋𝐞𝐞💜 </h1> 
 
 - 🌱 I’m currently learning Server🤪 
 - 📫 How to reach me ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlthf555@gmail.com) dlthf555@gmail.com
