@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Server🤪 
 - 📫 How to reach me ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlthf555@gmail.com) dlthf555@gmail.com
-- Devlog : ![Tech Blog Badge](https://dev-pine.tistory.com/) https://dev-pine.tistory.com/
+- Devlog : ![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-pine.tistory.com/) https://dev-pine.tistory.com/
 <br>
   <h2> ⚙Tech Stack⚙ </h2>
 
