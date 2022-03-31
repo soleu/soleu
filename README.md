@@ -3,7 +3,7 @@
 
 <h1> 𝐒𝐨𝐥 𝐋𝐞𝐞💜 </h1>  
 
-- 🌱 I’m currently learning Spring🌱🤪  
+- 🌱 I’m currently learning Spring🌱🤪   
 - 📫 How to reach me ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlthf555@gmail.com) dlthf555@gmail.com
 - Devlog : ![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-pine.tistory.com/) https://dev-pine.tistory.com/
 <br>
