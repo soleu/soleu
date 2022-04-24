@@ -7,6 +7,31 @@
 - 📫 How to reach me ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlthf555@gmail.com) dlthf555@gmail.com
 - Devlog : ![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-pine.tistory.com/) https://dev-pine.tistory.com/
 <br>
+  <h2> Project </h2>
+
+<b>2022</b>
+
+Depmeet - 온도 : 부정적인 감정을 제대로 인지하고, 자기객관화를 이끌어내는 다이어리 웹 서비스
+
+SOPT - 빵동여지도(빵東輿地圖) : 당신의 후회없는 빵 선택을 도와줄 국내 유일 브레드 맵, 지도기반 빵집 추천 앱 서비스
+
+SOPT - CARDNA : 다양한 나를 펼치다, 나의 특성을 카드로 생성하여 진정한 '나'를 알아가는 앱 서비스
+<br/>
+<br/>
+<b>2021</b>
+
+SOPT - Youniverse : 나와 너의 감정 공유의 시간을 행성에 기록하다, 감정기록 롤링페이퍼 웹 서비스
+
+SOPT - Mascota : 반려동물의 일상도 이별도 아름답게, 반려동물과의 일상과 펫로스 예방을 위한 다이어리 앱 서비스
+
+<br/>
+
+<b>2020</b>
+
+
+한이음 ICT - 홈밥홈봇 : 1인가구의 균형잡힌 기성비 식단 추천 챗봇 서비스
+
+<br/>
   <h2> ⚙Tech Stack⚙ </h2>
 
  <p>
