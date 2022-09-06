@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=💜Sol%20Sol💜&animation=twinkling&fontSize=100" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=header&animation=twinkling" /> 
 
-<h1> 𝐒𝐨𝐥 𝐋𝐞𝐞💜 </h1>   
+<h1> 𝐒𝐨𝐥 𝐋𝐞𝐞 </h1>   
 
  🌱 I’m currently learning Spring🌱🤪   
  📫 How to reach me ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlthf555@gmail.com)
@@ -57,5 +57,5 @@ SOPT - Mascota🐶 : 반려동물의 일상도 이별도 아름답게, 반려동
  
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
  </div>
