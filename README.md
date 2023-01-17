@@ -54,8 +54,6 @@ SOPT - Mascota🐶 : 반려동물의 일상도 이별도 아름답게, 반려동
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
  
-    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soleu&layout=compact&theme=dracula)](https://github.com/soleu)
  
 
 
